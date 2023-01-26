@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WK4Lab1", "WK4Lab1.pyproj", "{93F3DFEA-B2A0-4BFF-9B51-CEEE5AF0117C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93F3DFEA-B2A0-4BFF-9B51-CEEE5AF0117C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F3DFEA-B2A0-4BFF-9B51-CEEE5AF0117C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FF55FFD-5FCB-49B1-8DD1-B090DA3F2C69}
+	EndGlobalSection
+EndGlobal
